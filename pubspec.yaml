@@ -6,7 +6,7 @@ repository: https://github.com/istornz/live_activities
 
 environment:
   sdk: ^3.10.0
-  flutter: ">=3.38.0"
+  flutter: ">=3.35.3"
 
 screenshots:
   - description: 'Display a live activity on the iPhone 14 Pro+ dynamic island.'
